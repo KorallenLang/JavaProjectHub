@@ -1,0 +1,33 @@
+Movie Guessing Game
+You answer a series of question, and I will tell you the movie title.
+200  Is it animated? (Y/N)
+150  Are there sea adventures? (Y/N)
+139  Swimming under sea? (Y/N)
+131  Is romantic? (Y/N)
+126  Little Mermaid
+134  Finding Nemo
+143  Is it about treasure hunt? (Y/N)
+141  Treasure Planet
+149  Moana
+172  Are humans main characters? (Y/N)
+162  Are there a lot of ice and snow? (Y/N)
+159  Frozen
+168  the Sword in the Stone
+186  Are there deer in woods? (Y/N)
+182  Bambi
+193  Lion King
+267  Is it science fiction? (Y/N)
+239  Is it about space adventure? (Y/N)
+231  Is it about Mars? (Y/N)
+214  Total Recall
+234  Star-Wars
+243  Is there mystic arts in Nepal? (Y/N)
+241  Doctor Strange
+249  Spider-Man
+286  Big ship appears? (Y/N)
+278  Is it about pirates and sea adventures? (Y/N)
+272  Pirates and Caribbean Sea
+282  Titanic
+294  Is it about mystery and witches? (Y/N)
+291  Harry Potter
+295  007 Quantum of Solace

@@ -1,0 +1,33 @@
+Location in US Guessing Game
+You answer a series of question, I will tell you the location in US
+200  Is it in West? (Y/N)
+150  Are there big lakes? (Y/N)
+139  Is it in or close to California? (Y/N)
+131  Is it close to Reno? (Y/N)
+126  It is Lake Tahoe
+134  It is Shasta Lake
+143  Is it next to Lake Washington? (Y/N)
+141  It is Seattle
+149  It is Crater Lake in Oregon
+172  Is it a National Park? (Y/N)
+162  Is it in Washington state? (Y/N)
+159  It is Olympic National Park in WA
+168  It is Yosemite National Park in CA
+186  Are there many high-tech companies? (Y/N)
+182  It is Bay Area, CA
+193  It is Las Vegas, NV
+267  Is it in Southern US? (Y/N)
+239  Is it in Texas? (Y/N)
+231  Is it next to the Gulf of Mexico? (Y/N)
+214  It is Houston, TX
+234  It is Austin, TX
+243  Are there beautiful beaches?
+241  It is Miami
+249  It is Atlanta
+286  Is it next to 5 Great Lakes? (Y/N)
+278  Are there big water falls? (Y/N)
+272  It is Niagara Falls
+282  It is Chicago
+294  Is it a financial center? (Y/N)
+291  It is New York City
+295  It is Columbia, Missouri
